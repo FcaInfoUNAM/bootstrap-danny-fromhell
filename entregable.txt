@@ -23,4 +23,4 @@ Escribe el color hexadecimal del fondo del navbar
 
 ¿Cómo cambiarías el fondo por un video?
     Se puede usar la etiqueta <video> como fondo del sitio, configurándola para que se reproduzca automáticamente 
-    y ocupe toda la pantalla.
+    y ocupe toda la pantalla.  
