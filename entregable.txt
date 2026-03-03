@@ -1,0 +1,26 @@
+Explica qué es lo que hace bg-dark 
+    Aplica un fondo oscuro al elemento usando la paleta “dark” de Bootstrap
+
+Escribe el color hexadecimal del fondo del navbar 
+    Color hexadecimal del fondo (Bootstrap): #212529
+
+¿Qué permite que la contraseña esté oculta?
+    Se oculta porque el input tiene type="password"
+
+¿Dónde deberías agregar CSS en el documento si modificas el estilo de alguna clase?
+    El CSS personalizado debe agregarse en un archivo CSS propio, 
+    por ejemplo css/styles.css, y enlazarse en el <head> del documento después del archivo de Bootstrap.
+
+¿Bootstrap incorpora algún mecanismo para realizar los cambios del paso 4?
+    Sí. Bootstrap incluye clases utilitarias, como:
+        bg-* para colores de fondo.
+        bg-opacity-* para opacidad.
+        text-* para colores de texto.
+        btn-* para estilos de botones.
+    
+    y personalización mediante Sass, donde se pueden modificar variables internas del framework y recompilar 
+    Bootstrap con nuevos colores, tamaños o configuraciones.
+
+¿Cómo cambiarías el fondo por un video?
+    Se puede usar la etiqueta <video> como fondo del sitio, configurándola para que se reproduzca automáticamente 
+    y ocupe toda la pantalla.
